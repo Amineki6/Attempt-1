@@ -1,0 +1,222 @@
+
+.date {
+    color: black;
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: large;
+    
+}
+
+.content {
+    width: 75%;
+    margin: auto;
+    margin-top: 150px;
+    background-image: repeating-linear-gradient(0deg, 
+    #eee 12px,
+    #eee 13px,
+    transparent 12px,
+    transparent 20px);
+    
+}
+
+.category {
+    background-color: rgba(154,252,3,255);
+    width: 300px;
+
+}
+
+.register-form{
+    margin-left: 700px;
+}
+
+.table{
+    max-width: 175px;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+
+.table td{
+    border: 2px rgba(204,246,116,255);
+    border-style:double;
+    background: rgba(255,255,153,255);
+    text-decoration: underline;
+    padding-left: 0px;
+    color: rgba(29,14,146,255);
+    font-family: "Consolas";
+    font-weight: bold;
+}
+
+.table td:nth-child(1){
+    max-width:20px ;
+    max-height: 20px;
+}
+
+.table td:nth-child(2){
+    padding-left: 10px;
+}
+
+.icons{
+    max-width: 100%;
+    display: block;
+}
+
+.content #gif1{
+    max-width: 20%;
+    display: -webkit-box;
+    margin-left: auto;
+    ;
+}
+
+.content #gif2{
+    max-width: 20%;
+    margin-right: 10%;
+}
+
+.content #title{
+    text-shadow: 1px 1px 0 rgb(124,251,5),
+    -1px 1px 0 rgb(124,251,5),
+    1px -1px 0 rgb(124,251,5),
+    -1px -1px 0 rgb(124,251,5),
+    0px 1px 0 rgb(124,251,5),
+    0px -1px 0 rgb(124,251,5),
+    -1px 0px 0 rgb(124,251,5),
+    1px 0px 0 rgb(124,251,5),
+    2px 2px 0 rgb(124,251,5),
+    -2px 2px 0 rgb(124,251,5),
+    2px -2px 0 rgb(124,251,5),
+    -2px -2px 0 rgb(124,251,5),
+    0px 2px 0 rgb(124,251,5),
+    0px -2px 0 rgb(124,251,5),
+    -2px 0px 0 rgb(124,251,5),
+    2px 0px 0 rgb(124,251,5),
+    1px 2px 0 rgb(124,251,5),
+    -1px 2px 0 rgb(124,251,5),
+    1px -2px 0 rgb(124,251,5),
+    -1px -2px 0 rgb(124,251,5),
+    2px 1px 0 rgb(124,251,5),
+    -2px 1px 0 rgb(124,251,5),
+    2px -1px 0 rgb(124,251,5),
+    -2px -1px 0 rgb(124,251,5);
+    color: rgb(153, 7, 211);
+    font-family: "Consolas";
+}
+
+.content #intro{
+    background-color: rgba(255,255,153,255);
+    margin-left: 45%;
+    margin-right: 25%;
+    font-family: "Browallia New";
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px  orangered;
+    border-style:double;
+
+}
+
+
+
+.content #swear{
+    font-size: 60px;
+    text-shadow: 1px 1px 0 rgb(12,245,66),
+    -1px 1px 0 rgb(12,245,66),
+    1px -1px 0 rgb(12,245,66),
+    -1px -1px 0 rgb(12,245,66),
+    0px 1px 0 rgb(12,245,66),
+    0px -1px 0 rgb(12,245,66),
+    -1px 0px 0 rgb(12,245,66),
+    1px 0px 0 rgb(12,245,66),
+    2px 2px 0 rgb(12,245,66),
+    -2px 2px 0 rgb(12,245,66),
+    2px -2px 0 rgb(12,245,66),
+    -2px -2px 0 rgb(12,245,66),
+    0px 2px 0 rgb(12,245,66),
+    0px -2px 0 rgb(12,245,66),
+    -2px 0px 0 rgb(12,245,66),
+    2px 0px 0 rgb(12,245,66),
+    1px 2px 0 rgb(12,245,66),
+    -1px 2px 0 rgb(12,245,66),
+    1px -2px 0 rgb(12,245,66),
+    -1px -2px 0 rgb(12,245,66),
+    2px 1px 0 rgb(12,245,66),
+    -2px 1px 0 rgb(12,245,66),
+    2px -1px 0 rgb(12,245,66),
+    -2px -1px 0 rgb(12,245,66);
+    color: rgb(35,7,248);
+    font-family: "Consolas";
+    padding-left: 20%;
+}
+
+.content #fill{
+    font-size: 40px;
+    padding-left: 1%;
+    text-shadow: 1px 1px 0 rgb(12,245,66),
+    -1px 1px 0 rgb(12,245,66),
+    1px -1px 0 rgb(12,245,66),
+    -1px -1px 0 rgb(12,245,66),
+    0px 1px 0 rgb(12,245,66),
+    0px -1px 0 rgb(12,245,66),
+    -1px 0px 0 rgb(12,245,66),
+    1px 0px 0 rgb(12,245,66),
+    2px 2px 0 rgb(12,245,66),
+    -2px 2px 0 rgb(12,245,66),
+    2px -2px 0 rgb(12,245,66),
+    -2px -2px 0 rgb(12,245,66),
+    0px 2px 0 rgb(12,245,66),
+    0px -2px 0 rgb(12,245,66),
+    -2px 0px 0 rgb(12,245,66),
+    2px 0px 0 rgb(12,245,66),
+    1px 2px 0 rgb(12,245,66),
+    -1px 2px 0 rgb(12,245,66),
+    1px -2px 0 rgb(12,245,66),
+    -1px -2px 0 rgb(12,245,66),
+    2px 1px 0 rgb(12,245,66),
+    -2px 1px 0 rgb(12,245,66),
+    2px -1px 0 rgb(12,245,66),
+    -2px -1px 0 rgb(12,245,66);
+    color: orangered;
+    border: 2px  orangered;
+    font-family: "Consolas";
+    background-color: rgba(255,255,153,255);
+    margin-left: 20%;
+    border-style:double;
+}
+
+form , label{
+    font-size: 40px;
+    padding-left: 25%;
+    text-shadow: 1px 1px 0 rgb(12,245,66),
+    -1px 1px 0 rgb(12,245,66),
+    1px -1px 0 rgb(12,245,66),
+    -1px -1px 0 rgb(12,245,66),
+    0px 1px 0 rgb(12,245,66),
+    0px -1px 0 rgb(12,245,66),
+    -1px 0px 0 rgb(12,245,66),
+    1px 0px 0 rgb(12,245,66),
+    2px 2px 0 rgb(12,245,66),
+    -2px 2px 0 rgb(12,245,66),
+    2px -2px 0 rgb(12,245,66),
+    -2px -2px 0 rgb(12,245,66),
+    0px 2px 0 rgb(12,245,66),
+    0px -2px 0 rgb(12,245,66),
+    -2px 0px 0 rgb(12,245,66),
+    2px 0px 0 rgb(12,245,66),
+    1px 2px 0 rgb(12,245,66),
+    -1px 2px 0 rgb(12,245,66),
+    1px -2px 0 rgb(12,245,66),
+    -1px -2px 0 rgb(12,245,66),
+    2px 1px 0 rgb(12,245,66),
+    -2px 1px 0 rgb(12,245,66),
+    2px -1px 0 rgb(12,245,66),
+    -2px -1px 0 rgb(12,245,66);
+    color: rgb(247,8,193);
+    font-family: "Consolas";
+    text-align: center;
+}
+
+form, input{
+    width:250px;
+    padding:10px;
+}
+form{
+    padding-left: 25%;
+}
